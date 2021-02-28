@@ -14,7 +14,10 @@
     "indent": "off",
     "padded-blocks": "off",
     "eol-last": "off",
-    "require-jsdoc": "off"
+    "require-jsdoc": "off",
+    "operator-linebreak": "off",
+    "no-trailing-spaces": "off",
+    "no-unused-vars": "off"
   },
   "extends": ["eslint:recommended", "google"]
 }
