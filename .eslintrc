@@ -19,7 +19,8 @@
     "no-trailing-spaces": "off",
     "no-unused-vars": "off",
     "max-len": "off",
-    "quotes": "off"
+    "quotes": "off",
+    "no-case-declarations": "off"
   },
   "extends": ["eslint:recommended", "google"]
 }
